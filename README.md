@@ -23,3 +23,9 @@ O app será feito para Web(MEAN), Mobile(Ionic) e Desktop(Electron).
     + privado e publico
     + admins
     + bots
+
+## Segurança
+
+Criptografar as mensagens gerando uma chave entre os 2 usuários, ou entre o usuário e o grupo.
+
+Não salvar cache, histórico na nuvem.
