@@ -23,6 +23,7 @@ O app será feito para Web(MEAN), Mobile(Ionic) e Desktop(Electron).
     + privado e publico
     + admins
     + bots
+    + solicitação para o usuário que está sendo add
 
 ## Segurança
 
