@@ -4,6 +4,8 @@ Um sistema que unifique as melhores partes do Slack com o Telegram.
 
 ## Funcionalidades
 
+O app será feito para Web(MEAN), Mobile(Ionic) e Desktop(Electron).
+
 - API
 - Chat
     + tempo real
