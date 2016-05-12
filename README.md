@@ -27,6 +27,9 @@ O app será feito para Web(MEAN), Mobile(Ionic) e Desktop(Electron).
 
 ## Segurança
 
+**TODA COMUNICAÇÂO CRIPTOGRAFADA!** // utilizar algum método obscuro sem backdoor da NSA
+
 Criptografar as mensagens gerando uma chave entre os 2 usuários, PGP, ou entre o usuário e o grupo, criar uma chave privada e pública para usuário/bot/grupo/canal.
 
-Não salvar cache, histórico na nuvem, descriptografado apenas localmente.
+
+Não salvar cache local (para não ter perigo de leitura não autorizada das mensagens), histórico na nuvem, descriptografado apenas via app, localmente.
