@@ -15,6 +15,8 @@ O app será feito para Web(MEAN), Mobile(Ionic) e Desktop(Electron).
     + compartilhamento de mensagem
     + encaminhamento (forward) de mensagem
     + videochat(futuramente)
+- Video & Audio
+    + WebRTC   
 - Gerenciamento de Amigos
     + Criação de listas
     + Permissões de visibilidade
